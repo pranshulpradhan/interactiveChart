@@ -1,0 +1,20 @@
+.chart-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+canvas {
+    aspect-ratio: auto 900 / 450;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
